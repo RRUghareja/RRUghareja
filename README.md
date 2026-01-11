@@ -53,13 +53,15 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,babel,jest,firebase,vercel,netlify,jira" />
 </p> 
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (Static)
 
 <p align="center">
-  <img height="160" src="https://GITHUB_STATS_DOMAIN/api?username=RRUghareja&show_icons=true&theme=dark" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=RRUghareja&theme=dark" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1k+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-25+-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Joined-2021-lightgrey?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://GITHUB_STATS_DOMAIN/api/top-langs/?username=RRUghareja&layout=compact&theme=dark" />
+  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2nd%20Language-Node.js-green?style=for-the-badge" />
 </p>
