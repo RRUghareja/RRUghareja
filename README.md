@@ -56,12 +56,13 @@
 # 📊 GitHub Stats (Static)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-1k+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repositories-25+-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Joined-2021-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Stats-Static-dark?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Language-JavaScript-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2nd%20Language-Node.js-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-1k+-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stars-50+-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forks-20+-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Issues_Closed-100+-green?style=flat-square" />
 </p>
+
