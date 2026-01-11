@@ -53,14 +53,13 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,webpack,babel,jest,firebase,vercel,netlify,jira" />
 </p> 
 
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-rust-psi.vercel.app/api?username=RRUghareja&show_icons=true&theme=dark&border_radius=10" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=RRUghareja&theme=dark&hide_border=false" />
+  <img height="160" src="https://GITHUB_STATS_DOMAIN/api?username=RRUghareja&show_icons=true&theme=dark" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=RRUghareja&theme=dark" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-rust-psi.vercel.app/api/top-langs/?username=RRUghareja&layout=compact&theme=dark&border_radius=10" />
+  <img height="160" src="https://GITHUB_STATS_DOMAIN/api/top-langs/?username=RRUghareja&layout=compact&theme=dark" />
 </p>
